@@ -718,6 +718,14 @@ a.linkedin:hover i{
 	background:url(../images/img-sp.png) no-repeat -29px -198px;
     display: block;
 }
+.github-icon, .linkedin-icon {
+	transition: color 0.5s ease-in;
+	color: #000; /* Initial color */
+  }
+  
+.github-icon:hover, .linkedin-icon:hover {
+	color: #555; /* Color on hover */
+  }
 a.g i{
 	background:url(../images/img-sp.png) no-repeat -73px -158px;
     display: block;
