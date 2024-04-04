@@ -688,7 +688,7 @@ div#myTabContent {
     -moz-box-shadow: 0 30px 0 inset;
     box-shadow: 0 30px 0 inset;
 }
-a.facebook i{
+a.github i{
 	background: url(../images/img-sp.png) no-repeat 3px -157px;
     display: block;
     width: 30px;
@@ -699,11 +699,11 @@ a.facebook i{
     transition: 0.5s ease-in;
 	-ms-transition: 0.5s ease-in;
 }
-a.facebook:hover i{
+a.github:hover i{
 	background:url(../images/img-sp.png) no-repeat 3px -198px;
     display: block;
 }
-a.twitter i{
+a.linkedin i{
 	background:url(../images/img-sp.png) no-repeat -29px -158px;
     display: block;
     width: 30px;
@@ -714,7 +714,7 @@ a.twitter i{
     transition: 0.5s ease-in;
 	-ms-transition: 0.5s ease-in;
 }
-a.twitter:hover i{
+a.linkedin:hover i{
 	background:url(../images/img-sp.png) no-repeat -29px -198px;
     display: block;
 }
