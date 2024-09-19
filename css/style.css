@@ -383,7 +383,7 @@ p.qui{
     left:110%;
 }
 .services-grids-left-grid1-pos span{
-	background: url(../images/img-sp.png) no-repeat 0px 0px;
+	background: url(../documents/img-sp.png) no-repeat 0px 0px;
     display: block;
     width: 100px;
     height: 100px;
@@ -396,7 +396,7 @@ p.qui{
 	-ms-border-radius: 50%;
 }
 .services-grids-left-grid2-pos span{
-	background:url(../images/img-sp.png) no-repeat -113px 0px;
+	background:url(../documents/img-sp.png) no-repeat -113px 0px;
 	display:block;
 	width:100px;
 	height:100px;
@@ -409,7 +409,7 @@ p.qui{
 	-ms-border-radius: 50%;
 }
 .services-grids-left-grid3-pos span{
-	background:url(../images/img-sp.png) no-repeat -243px 0px;
+	background:url(../documents/img-sp.png) no-repeat -243px 0px;
 	display:block;
 	width:100px;
 	height:100px;
@@ -446,7 +446,7 @@ p.qui{
 	font-weight: 500;
 }
 .service-grids-bottom h2:before{
-	background:url(../images/img-sp.png) no-repeat -6px -118px;
+	background:url(../documents/img-sp.png) no-repeat -6px -118px;
 	display:block;
 	width:32px;
 	height:32px;
@@ -458,7 +458,7 @@ p.qui{
 /*-- //services --*/
 /*-- services-bottom --*/
 .services-bottom{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../documents/1.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -554,7 +554,7 @@ p.qui{
     position: absolute;
     bottom:-95%;
     left: 27%;
-    background: url(../images/1.png) no-repeat 0px 0px #fff;
+    background: url(../documents/1.png) no-repeat 0px 0px #fff;
     display: block;
     height: 38px;
     width: 27px;
@@ -689,7 +689,7 @@ div#myTabContent {
     box-shadow: 0 30px 0 inset;
 }
 a.github i{
-	background: url(../images/img-sp.png) no-repeat 3px -157px;
+	background: url(../documents/img-sp.png) no-repeat 3px -157px;
     display: block;
     width: 30px;
     height: 30px;
@@ -700,11 +700,11 @@ a.github i{
 	-ms-transition: 0.5s ease-in;
 }
 a.github:hover i{
-	background:url(../images/img-sp.png) no-repeat 3px -198px;
+	background:url(../documents/img-sp.png) no-repeat 3px -198px;
     display: block;
 }
 a.linkedin i{
-	background:url(../images/img-sp.png) no-repeat -29px -158px;
+	background:url(../documents/img-sp.png) no-repeat -29px -158px;
     display: block;
     width: 30px;
     height: 30px;
@@ -715,7 +715,7 @@ a.linkedin i{
 	-ms-transition: 0.5s ease-in;
 }
 a.linkedin:hover i{
-	background:url(../images/img-sp.png) no-repeat -29px -198px;
+	background:url(../documents/img-sp.png) no-repeat -29px -198px;
     display: block;
 }
 .github-icon, .linkedin-icon {
@@ -727,7 +727,7 @@ a.linkedin:hover i{
 	color: #555; /* Color on hover */
   }
 a.g i{
-	background:url(../images/img-sp.png) no-repeat -73px -158px;
+	background:url(../documents/img-sp.png) no-repeat -73px -158px;
     display: block;
     width: 30px;
     height: 30px;
@@ -738,11 +738,11 @@ a.g i{
 	-ms-transition: 0.5s ease-in;
 }
 a.g:hover i{
-	background:url(../images/img-sp.png) no-repeat -73px -198px;
+	background:url(../documents/img-sp.png) no-repeat -73px -198px;
     display: block;
 }
 a.p i{
-	background:url(../images/img-sp.png) no-repeat -113px -159px;
+	background:url(../documents/img-sp.png) no-repeat -113px -159px;
     display: block;
     width: 30px;
     height: 30px;
@@ -753,7 +753,7 @@ a.p i{
 	-ms-transition: 0.5s ease-in;
 }
 a.p:hover i{
-	background:url(../images/img-sp.png) no-repeat -113px -199px;
+	background:url(../documents/img-sp.png) no-repeat -113px -199px;
     display: block;
 }
 /*-- //social-icons --*/
@@ -792,7 +792,7 @@ ul.footer-grid-list li{
     color: #999;
     line-height: 1.8em;
     padding-left: 2.5em;
-    background:url(../images/img-sp.png) no-repeat -193px -124px;
+    background:url(../documents/img-sp.png) no-repeat -193px -124px;
     list-style-type: none;
 }
 ul.footer-grid-list li:nth-child(2){
@@ -858,7 +858,7 @@ ul.footer-grid-list li span{
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url(../images/arrow.png) no-repeat 0px 0px;
+	background: url(../documents/arrow.png) no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 32px;
@@ -873,7 +873,7 @@ ul.footer-grid-list li span{
 /*-- //to-top --*/
 /*-- banner1 --*/
 .banner1{
-	background: url(../images/banner.jpg) no-repeat 0px 0px;
+	background: url(../documents/bg.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1624,7 +1624,7 @@ p.fugiat{
 }
 .categories ul li {
 	list-style-type: none;
-    background: url(../images/img-sp.png) no-repeat -10px -378px;
+    background: url(../documents/img-sp.png) no-repeat -10px -378px;
     display: block;
     padding-left: 3em;
     margin: 1.5em 0;
@@ -2443,7 +2443,7 @@ p.fugiat{
 		margin: 2em 0 0;
 	}
 	.services-grids-left-grid1-pos span {
-		background: url(../images/img-sp.png) no-repeat 0px 0px;
+		background: url(../documents/img-sp.png) no-repeat 0px 0px;
 		background-size: 515%;
 		width: 80px;
 		height: 80px;
@@ -2452,7 +2452,7 @@ p.fugiat{
 		margin-right: 3em;
 	}
 	.services-grids-left-grid3-pos span {
-		background: url(../images/img-sp.png) no-repeat -195px 0px;
+		background: url(../documents/img-sp.png) no-repeat -195px 0px;
 		width: 80px;
 		height: 80px;
 		background-size: 515%;
@@ -2461,7 +2461,7 @@ p.fugiat{
 		left: 103%;
 	}
 	.services-grids-left-grid2-pos span {
-		background: url(../images/img-sp.png) no-repeat -90px 0px;
+		background: url(../documents/img-sp.png) no-repeat -90px 0px;
 		background-size: 515%;
 		width: 80px;
 		height: 80px;
