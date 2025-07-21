@@ -703,6 +703,11 @@ a.github:hover i{
 	background:url(../documents/img-sp.png) no-repeat 3px -198px;
     display: block;
 }
+/* a.scholar:hover i{
+	background:url(../documents/img-sp.png) no-repeat 3px -198px;
+    display: block;
+} */
+
 a.linkedin i{
 	background:url(../documents/img-sp.png) no-repeat -29px -158px;
     display: block;
@@ -714,18 +719,18 @@ a.linkedin i{
     transition: 0.5s ease-in;
 	-ms-transition: 0.5s ease-in;
 }
-a.linkedin:hover i{
+/* a.linkedin:hover i{
 	background:url(../documents/img-sp.png) no-repeat -29px -198px;
     display: block;
-}
-.github-icon, .linkedin-icon {
-	transition: color 0.5s ease-in;
-	color: #000; /* Initial color */
+} */
+.github-icon, .linkedin-icon, .scholar-icon {
+	/* transition: color 0.5s ease-in; */
+	color: #f0a3e0; /* Initial color */
   }
   
-.github-icon:hover, .linkedin-icon:hover {
-	color: #555; /* Color on hover */
-  }
+/* .github-icon:hover, .linkedin-icon:hover, .scholar-icon:hover {
+	color: #555; }/*  Color on hover */
+
 a.g i{
 	background:url(../documents/img-sp.png) no-repeat -73px -158px;
     display: block;
@@ -737,9 +742,45 @@ a.g i{
     transition: 0.5s ease-in;
 	-ms-transition: 0.5s ease-in;
 }
-a.g:hover i{
+/* a.g:hover i{
 	background:url(../documents/img-sp.png) no-repeat -73px -198px;
     display: block;
+} */
+
+.scholar-icon i {
+    /* If you want to use your custom image */
+    background: url(../documents/gsch.png) no-repeat center center;
+    background-size: contain;
+    display: block;
+    width: 30px;
+    height: 30px;
+    -webkit-transition: 0.5s ease-in;
+    -moz-transition: 0.5s ease-in;
+    -o-transition: 0.5s ease-in;
+    transition: 0.5s ease-in;
+    -ms-transition: 0.5s ease-in;
+}
+
+/* Or if using Font Awesome icon */
+.scholar-icon i.fas.fa-graduation-cap {
+    color: #f0a3e0;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+/* Update hover effects for all social icons */
+.social-nav.model-8 a:hover {
+    color: #f0a3e0;
+    -webkit-box-shadow: 0 30px 0 inset rgba(240, 163, 224, 0.2);
+    -moz-box-shadow: 0 30px 0 inset rgba(240, 163, 224, 0.2);
+    box-shadow: 0 30px 0 inset rgba(240, 163, 224, 0.2);
+}
+
+/* Remove the individual icon background hovers since we're using Font Awesome */
+a.github-icon i,
+a.linkedin-icon i,
+a.scholar-icon i {
+    background: none !important;
 }
 a.p i{
 	background:url(../documents/img-sp.png) no-repeat -113px -159px;
@@ -752,10 +793,10 @@ a.p i{
     transition: 0.5s ease-in;
 	-ms-transition: 0.5s ease-in;
 }
-a.p:hover i{
+/* a.p:hover i{
 	background:url(../documents/img-sp.png) no-repeat -113px -199px;
     display: block;
-}
+} */
 /*-- //social-icons --*/
 input[type="submit"],.related-post-right h4 a,.categories ul li a,.popular-posts-grid1 h4 a,.single-grid-left-grid1 ul li a,.mail-grid-right1 ul.phone-mail li a,.pricing-plans-grid1 ul li,.pricing-plans-grid1 h5,.pricing-plans-grid1 h4,ul.footer-grid-list li a,.pricing-plans-grid1,.footer-grids1-left ul li a,.footer-grids1-right p a,.about-grids-left h4 a{
 	-webkit-transition: 0.5s ease-in;
